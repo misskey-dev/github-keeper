@@ -2,6 +2,8 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A GitHub bot for Misskey repos
 
+🤯
+
 ## Setup
 
 ```sh
